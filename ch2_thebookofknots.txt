@@ -1,69 +1,85 @@
 1. Loop City:  An Introduction
 
-When Linus Torvalds created the Linux kernel operating system, he didn’t anticipate having to manage thousands of contributions the open source software.  To quote, “Git is my second big project, created only for me to maintain my first big project.”  Versioning software is one way to keep loops from becoming knots—it manages a history of changes on a linear timeline.  Take for example when you modify an image in Photoshop, you save the entire image—flattened or layered—not just the airbrushed gesture.  
+When Linus Torvalds created the Linux kernel operating system, he didn’t anticipate having to manage thousands of contributions the open source software.  To quote, “Git is my second big project, created only for me to maintain my first big project.”  Versioning software is just one way to keep loops from becoming knots—it’s a command line tool that manages a history of changes on a linear timeline.  Although the repository won’t read binary, compare an algorithmic script to digital image for example.  When you modify an image in Photoshop, you save the entire image—flattened or layered—not just the airbrushed gesture.  
 
-Versioning software on the other hand, and Torvalds’ GitHub in particular, archives the layer of airbrushed touch-ups alone, and compares modifications to the previous version side by side, like toggling undo/redo through your Photoshop history.  Git also manages parallel timelines of branching histories.  So basically if your impatient editor wants to breath down the neck of your workflow, he doesn’t have to download entire RAW files, but could rather just call Git and pull an update.  GitHub takes that shared loop, like a melody held just in mind, and tweaks the notes one by one.  It’s rather like a symphony of Cory Arcangel cat videos, with distributed users each hitting a single key.
+Versioning software on the other hand, and Torvalds’ GitHub in particular, archives the layer of airbrushed touch-ups alone, and compares modifications to the previous version side by side, like toggling undo/redo through your Photoshop history.  Git also manages parallel timelines of branching histories.  So basically if your impatient editor wants to breath down the neck of your workflow, he doesn’t have to download entire RAW files, but could rather just call Git and pull an update.  Like a melody held in mind, GitHub takes that shared loop and tweaks the notes one by one.  It’s rather like a symphony of Cory Arcangel cat videos, with distributed users each hitting a single key.
 
-Git collates the accumulated loop of a knowledge base rather like Wikipedia, or better yet Linus’s Law, formulated by Eric S. Raymond in his essay and book The Cathedral and the Bazaar. (1999).[1][2]  Say hello again to Wikipedia:
+Git collates the accumulated loop of a knowledge base rather like the Wikipedia community, or better yet Linus’s Law, formulated by Eric S. Raymond in his book The Cathedral and the Bazaar. (1999).[1][2]  Wikipedia brings us the condensed version:
 
 	The law states that ‘given enough eyeballs, all bugs are shallow’; or more 		formally: ‘Given a large enough beta-tester and co-developer base, almost 	every problem will be characterized quickly and the fix will be obvious to 		someone.’  Presenting the code to multiple developers with the purpose of 	reaching consensus about its acceptance is a simple form of software 		reviewing. 
 
-If Git did the same for art as it does for code, all we’d see would be social realism.  Hopefully we don’t all want to meet a consensus in art
-Thank knot for that.
-But seems to be the state contemporary art finds itself in today—a loop of representation that is bracketed between known histories and the internet of things.  When effects are easy, where is content?
+If Git did the same for art as it does for code, we’d all be seeing social realism.  Hopefully art doesn’t want to meet a consensus. 
+The knot puts terms back into circulation, and leaves the loop open to interpretation.  
+I’ll trade my punchcard for twisted models and upbraided logic for turning a discursive weft back into loom’s smooth weave.
 
-
-Briefly then, I can speak to my practice.
-I believe the experience of contemporary images has entirely shifted from 
-
-I want to change the way we experience contemporary images.  To this end, I have adopted two models.  First, a purely conceptual form, the loop; and second, its practical manifestation and everyday tangle we all know as a knot.  I don’t believe a pure loop can persist in the natural world—it inevitably becomes entangled, both with itself and the linear processes upon its path.  The networked experience of contemporary media and the crisis of digital images is exactly as such—the copy set free from it’s original—a discursive loop with a half-life circulation.
-
-Memory on the other hand employs the loop as a constructive tool.  Say you have a song repeating in your head—it’s skipping like a record—but the full sequence is broken.  The loop of memory is what enables you to fall into the song’s general rhythm and reconstruct patterns with mere fragments.  To me, this nonlinear recursion makes memory—and thought as a whole—more like disentangling a knot than a mechanical parallelism of time.  
-
-My practice is bifurcated between these two species of thought, both pure loop and practical knot, but each process employs an algorithmic approach in generating form.  I've been making my own analog knots—or rather using the tide cycles of the Thames to draw.  The river’s steady ebb and flow is itself a natural loop—a pure sine in lunar time—and I've adopted its function much like an algorithmic script crunching data.  If coding s the compression of possibility, I take the knot as the critical foundation of contemporary visuality. 
-
-Case in point: the internet is one giant knot.  Moreover, the internet is a giant readymade.  My vision is entirely distinct from my historicization; Duchamp’s readymades mark the introduction of the loop into the mirror of symbolic representation.  And practically speaking, programmers employ scripts as readymade tools underneath the surface gloss of image media, take prebuilt software as given.  Piecewise frameworks and archived libraries abstract the essential 1’s and 0’s so that development can be focused at the intersection and interpretation of their symbolic containers. 
-
-My digital work employs the looping mechanism to tie knots in time.  In video and animated GIFs I am reorganizing frames algorithmically, working at the upper threshold of screen refresh rates to entangle the singular image with networked possible futures.  Ultimately the loop is a question, “what if?” while disentangling its knots revels in pure pursuit.
-
-\\\\\\
-
-
-From a looping stream of operational logic, flexible frameworks may appear counterintuitive to optimization, but they are in fact the generative structures that harness flow and link connective nodes.
-
-
-Or more acutely, our multimedia digital experience is the circulation of nested scripts—executables that fashion the point and click environment through these nodes.  ‘Loop the loop’ ad infinitum enables the shared hyperlink experience.  Call and response functionality turns iterative tasks into software, but the combinatorial effect means we can all customize our own corner of the universe under the same frontend assembly.  So basically, the internet is a giant readymade.  
-
-
-
-
-
-
-
-
-
-
-To bring it back to 
-
-
-Pixel palettes and words alike have long been spilt over plug-in tools, that is to say the general wash of rendered effects saturating content.  Which is not too far off from the traditional brush, this loop of representation—we render the world that immanently surrounds us.  The difference is that effects are easy, almost so easy that their employ becomes interchangeable, not to mention excessive.
-
-Hito Steyerl speaks In Defense of the Poor Image, the inevitable decay 
+The metaphor is indeed loaded with the history of computing, but materially I don’t believe a pure loop can persist in the natural world—it inevitably becomes entangled, both with itself and the linear processes upon its path.  Chief of which is entropy, any why you look at it.  The networked experience of contemporary media and the crisis of digital images is exactly as such—the copy set free from it’s original—and images with a half-life decay.  Hito Steyerl speaks the inevitable decay in In Defense of the Poor Image:
 
 	The poor image is a copy in motion. Its quality is bad, its resolution 			substandard. As it accelerates, it deteriorates. It is a ghost of an image, a 		preview, a thumbnail, an errant idea, an itinerant image distributed for free, 	squeezed through slow digital connections, compressed, reproduced, ripped, 	remixed, as well as copied and pasted into other channels of distribution. p32
 
-“Its genealogy is dubious.” p32 In other words
-“The bruises of images are its glitches and artifacts, the traces of its rips and transfers.” p 27
+Her looping “swarm circulation” p44 is taken as given, yet in Benjaminian terms, the “aura is no longer based on the permanence of the ‘original,’ but on the transience of the copy.” p42  Which can be fleeting, to say the least.
+Yet bracketed between known histories and the internet of things, contemporary art finds itself wrangling with the terms of big data, likewise bound in a loop of representation.
+When effects are easy and circulation is taken for granted, what does content value?
 
-“swarm circulation” p44
-and claims in Benjaminian terms, “This aura is no longer based on the permanence of the ‘original,’ but on the transience of the copy.” p42
+This is a question posed to the knot: form may well follow function, but beauty is something else.
+we render the world that immanently surrounds us.
 
 
-where progress is made by the animated ____ of software tools.
+The general wash of rendered effects saturating content
 
+Pixel palettes and words alike have long been spilt over plug-in tools, that is to say .  Which is not too far off from the traditional brush, this loop of representation—  The difference is that effects are easy, almost so easy that their employ becomes interchangeable, not to mention excessive.
+
+where progress is made by the animated ____ of software tools
 Compression artifacts 
 
 
+Unlike Steyerl’s poor image copy, memory employs the loop as a constructive tool.  Say you have a song repeating in your head—it’s skipping like a record—but the full sequence is broken.  The loop of memory is what enables you to fall into the song’s general rhythm and reconstruct patterns with mere fragments.  To me, this nonlinear recursion makes memory—and thought as a whole—more like disentangling a knot than a mechanical parallelism of time.  
 
-Instead of 
-for K in *K: 
+At a computational linguistics talk at Queen Mary University, Geraint Wiggins offered a definition of music in as the pleasurable anticipation of the unexpected, from within an established rhythm.  You might call it improvisation, where the deviations generally aren’t too far from the main rhythmic structure, with the caveat that the initial experience of surprise is fully integrated into your memory of the sequence.  A mechanical loop might again be described as having no memory, whereas the algorithmic script running in a loop can qualify the texture of experience into the meta-data.  Are these textures, surfaces, and layers in depth not more akin to a knot?
+
+The algorithm is simply stated as a series of executable steps in a process.
+Bifurcated between two species of thought, both pure loop and practical knot, each process can employ an algorithmic approach to generating form.  Natural processes such as tide cycles are bounded by algorithmic constraints.  The Thames River’s steady ebb and flow is itself a natural loop—a pure sine in lunar time—but the material that falls upon its path responds as if the script is crunching data.  If coding s the compression of possibility, I take the knot as the critical foundation of contemporary visuality. 
+
+Case in point: the internet is one giant knot.  Or more acutely, our multimedia digital experience is the circulation of nested scripts—executables that fashion the point and click environment through these nodes.  ‘Loop the loop’ ad infinitum enables the shared hyperlink experience.  Call and response functionality turns iterative tasks into software, but the combinatorial effect means we can all customize our own corner of the universe under the same frontend assembly.  So basically, the internet is a giant readymade.  
+
+My vision is entirely distinct from my historicization; Duchamp’s readymades mark the introduction of the loop into the mirror of symbolic representation.  Practically speaking, programmers employ scripts as readymade tools—prebuilt software is taken as given.  Piecewise frameworks and archived libraries abstract the essential 1’s and 0’s so that development—and creativity moreover—can be focused at the intersection and interpretation of their symbolic containers. 
+
+Duchamp takes the urinal we know, and reorienting top and bottom via the signature of R. Mutt , transforms it into a work of art.  The perspectival shift of readymades in general—or a condition of “art-in-general” as Thierry de Duve calls it—applies the conceptual rule to a matrix of objects.  Substitute data points for pre-transformed readymades in an operational matrix, and the conceptual process reads equivalent to algorithmic scripting.  This may sound like an oversimplification, but Duchamp’s gesture put symbols back into play, as a counter to what he called “retinal art.”  
+
+The readymades carry not only a discreet inheritance of object functionality, but are also a material source for the puns and looped wordplay Duchamp was so keen to.  Duchamp concretized the surrealist gesture his contemporaries would later expound in language—a given set of rules which inform many strategies of 60’s conceptualism.  We could debate what is an isn’t a pipe in René Magritte’s famous The Treachery of Images, but I want to take a step back and recontextualize the operative conceptualism in relation to modern computing.
+
+polyvariable encoding
+declared in physical space what the poets knew to be true
+
+Charles Babbage’s Analytical Engine was invented nearly a century before it was able to produce results.  In essence Babbage took the punchcards of mechanical jacquard looms as a readymade tool to process new data—borrowing is just sort of the way invention works.  Creativity in Duchamp’s terms—reinventing objects in the same way Silicon Valley reappropriates data—is exactly how we are able to rethink our relationship to both our immediate senses and the greater outside world in general.  
+
+Is creativity a set process sifting a looped flood of information?  Certainly not.  But the ability to script an order of operations—whether immersed in the acausal intuition of artistic process or coldly detached from the pulse of positive and negative charges inscribed on a spinning disk—abstract interplay of polynomial function is essential to thinking.  Today with communication networks firmly in place, data is the pure material.  Quantifiable behaviours are gold, if only the proper tools be set in place to parse the numbers.
+
+The following sequence of chapters are just one take on creative thinking, rooted at the core in the loop and its practical _____, the knot.
+
+
+
+
+
+
+ and replicate computing tables in 1906
+
+DUCHAMP
+
+Thierry DeDuve
+
+Likewise Thierry de Duve’s series of Artforum essays positions Marcel Duchamp as a mere messenger of the Independent salon’s “anything goes” condition.39
+
+
+\\\\\\
+My digital work employs the looping mechanism to tie knots in time.  In video and animated GIFs I am reorganizing frames algorithmically, working at the upper threshold of screen refresh rates to entangle the singular image with networked possible futures.  Ultimately the loop is a question, “what if?” while disentangling its knots revels in pure pursuit.
+
+Briefly then, I can speak to my practice.
+I believe the experience of contemporary images has entirely shifted from 
+I want to change the way we experience contemporary images.  
+To this end, I have adopted two models.  First, a purely conceptual form, the loop; and second, its practical manifestation and everyday tangle we all know as a knot.  
+
+I've been making my own analog knots—or rather using the tide cycles of the Thames to draw.
+From a looping stream of operational logic, flexible frameworks may appear counterintuitive to optimization, but they are in fact the generative structures that harness flow and link connective nodes.
+ 
+“Its genealogy is dubious.” p32 In other words
+“The bruises of images are its glitches and artifacts, the traces of its rips and transfers.” p 27
