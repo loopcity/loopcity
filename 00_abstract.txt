@@ -11,18 +11,6 @@ In this text I will suspend digital and analog
 claim that the knot is the inevitable future of both, born from post-Duchampian artistic practice and 21st century virtual environments.
 I will analyze what I find to be purely conceptual parameters activated by the loop,
 and suggest that materially, the loop resolves in the form of a knot.
-
-It is a question of “what if?”—what if what if what if…
-Like an image without a caption, the loop is a story that has forgotten its own history in order to overwrite the present.  
-It carries with it the momentum of the question, but how does that looping inquiry accumulate complexity in time?
-
-The text introduces the knot as an inevitability, born of post-Duchampian artistic practice and 21st century virtual environments.  
-
-The contemporary knot to first disentangles purely conceptual parameters active in both analog and digital loops, and further to suggest the structures inevitable materiality of both.
-
-to conceptual loop from contemporary knot,
-
-abstract
 Caught at the intersection of coding and creativity, this text will invoke 
 the readymade to situate algorithmic meta-programming against artistic practice.
 
@@ -45,7 +33,3 @@ Distributed across 3 distinct narratives, I will first disentangle conceptual lo
 
 On the other hand, disentangling knots revels in pure pursuit.
 Notions of in time and space.
-
-keywords
-algorithm coding Duchamp knot loop programming readymade versioning
-
