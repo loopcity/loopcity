@@ -1,8 +1,2 @@
 5. Approximate Infinite:  Conclusions
-
-An algorithm cannot flip a coin—even to a binary processor, randomness is simulated.  On the other hand, infinite recursion is quite a likely scenario, for a script to keep on running if no timeout indicated.  If my case for the knot has not yet been made clear, this chapter can resort to hyperbole as necessary end to the “what if?” narrative.  How?  Because even Duchamp couldn’t use the 16 miles of string supposedly earmarked for his exhibition.  The loop that ends is not a pure loop.  The tangle on the floor is no better for having been unfurled.
-
-
-
-
-Lim ∞ or Approximate Infinite ~ 
+	An algorithm cannot flip a coin—even to a binary processor, randomness is simulated.  On the other hand, infinite recursion is quite a likely scenario, for a script to keep on running if no timeout is indicated.  If my case for the knot has not yet been made clear, this chapter can resort to hyperbole as necessary end to the “what if?” narrative.  How?  Because even Duchamp couldn’t find use the 16 miles of string supposedly earmarked for his exhibition.  The loop that ends is not a pure loop—the potential for it to be conceptually reactivated is where histories becomes entangled.  The knot on the floor is always better for having been physically unfurled from the mind’s fiction.  This chapter explores future alternatives to loops in machine learning and machine self-programming.  Branches will be called down from my GitHub repository and analyzed, and the question of 
