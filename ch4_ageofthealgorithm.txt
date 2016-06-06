@@ -1,22 +1,13 @@
 4. Age of the Algorithm:  Infrastructure and Praxis in the 21st Century
+
 	If you see the fork in the road, take it.
 								—Yogi Berra
+	This chapter will question artistic decision-making in parametric terms delineated by architect Patrik Schumacher.[1]  If a studio is capable physically producing any number of the possible drawing board permutations, would it not be a fallacy to not choose the absolute best one?  When present-day virtual simulations can calculated with precision, aesthetic choice goes out the window.  ‘Because I like it’ is simply not good enough.  However most clients feedback to a life cycle cost/benefit analysis will be to choose the cheaper option.  But the simple ‘because’ is not without logic, it motivates the ‘how?’ of the knot without the baggage of ‘why?’—and therefore positions itself as the popular, intuitive form.
 
-This chapter will question artistic decision making in parametric terms delineated by architect Patrik Schumacher.  If a studio is capable physically producing any number of the possible drawing board permutations, would it not be a fallacy to not choose the absolute best one?  When present-day virtual simulations can calculated with precision, aesthetic choice goes out the window.  “Because I like it” is simply not good enough.  However most clients feedback to a life cycle cost/benefit analysis will be to choose the cheaper option.
-
-
-
-continues to track 
-in the employ of musical 
-
+inbuilt obsolescence
 breakbeat/breakdown
 structural discontinuities
 
-finite
-inbuilt obsolescence
 
-speed
-hyper-cut
-radical sample
 
-parametricism - systems architecture
+[1] Schumacher, Patrik. Lecture, Rethinking Architecture’s Agenda for the 21st Century: Launch of AD Parametricism 2.0, Architectural Association School of Architecture, London, April 29, 2016.
